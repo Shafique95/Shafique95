@@ -87,7 +87,7 @@ my students and others.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fRXL0X2WSK4" target="_blank"><img src="https://github.com/Shafique95/Shafique95/blob/main/youtube%20pic.PNG" 
 alt="Java" width="240" height="180" border="10" /></a>
 
-↪️ &nbsp; [search more videos...](https://www.youtube.com/channel/UCjSmUZ8KjLXnx2cU6eP0ZgA)
+↪️ &nbsp; [search more videos...](#)
 
 <br/>
 
