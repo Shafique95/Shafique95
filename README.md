@@ -23,10 +23,8 @@ A full time Fulstack Android & ios developer
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects
-to millions of Bangla speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity
-to teach thousands of Bachelor and Higher secondary students of different institutions in Bangladesh.
-After completing my masters in Software, Web and Cloud in August 2021, I am spending much time
+I am a passionate computer science. 
+After completing my Diploma in Software, Web and Android & IoS in July 2022, I am spending much time
 improving my web development skills. Every day I want to learn something new and share my knowledge with
 my students and others.
 </p>
@@ -62,30 +60,29 @@ my students and others.
 
 #### Other Skills & Videos:
 
-[<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />][cplaylist]
-[<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />][cplusplaylist]
-[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />][javaplaylist]
-[<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />][androidplaylist]
-[<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />][pythonplaylist]
+[<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />]
+[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />]
+[<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />]
+
 
 <br/>
 <br/>
 <br/>
 
-- [Artificial Intelligence (English)][aienglishplaylist]
-- [Artificial Intelligence (Bangla)][aibanglaplaylist]
-- [Java Swing][javaswingplaylist]
-- [Discrte Math][dsplaylist]
-- [Numerical Method][numericalplaylist]
-- [Theory of computation][tocplaylist]
-- [Compiler][compilerplaylist]
-- [Networking][networkingplaylist]
-- [Operating System][operatingsystemplaylist]
-- [HSC ICT][hscictplaylist]
-- [Learn for skill][learnforskillplaylist]
-- [MS Word][mswordplaylist]
-- [MS Excel][msexcelplaylist]
-- [MS powerpoint][mspowerpointplaylist]
+- [Artificial Intelligence (English)]
+- [Artificial Intelligence (Bangla)]
+- [Java Swing]
+- [Discrte Math]
+- [Numerical Method]
+- [Theory of computation]
+- [Compiler]
+- [Networking]
+- [Operating System]
+- [HSC ICT]
+- [Learn for skill]
+- [MS Word]
+- [MS Excel]
+- [MS powerpoint]
   <!-- other skills and my videos for computer science section ends here  -->
 
   <br/>
@@ -213,25 +210,6 @@ All rights reserved by Shafiqul Islam @2022
 
 <!-- cse related playlists starts here  -->
 
-[cplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz
-[cplusplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL
-[javaplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa
-[androidplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5
-[pythonplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN
-[aienglishplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rRVV7oeML93OVAxqQ-CvzV
-[aibanglaplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oFAaeJxjDWA8kEbMutzV6V
-[javaswingplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l
-[numericalplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oKFrSOo4Kwns1-vTZmKQ7z
-[operatingsystemplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3r_SuT0AnOEoElfQQPgkBIq
-[dsplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rYy9DVhk28m8enSo8xxiZ3
-[tocplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0
-[compilerplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oWTwTgILA7v9oysoDgkJDg
-[networkingplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3p5OI88r3ob-otmKqIm_DbS
-[hscictplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3o8Y-CKhmyodbfHAc9VSVOv
-[learnforskillplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qyJVIaeHSqiRWOyO6HW023
-[mswordplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3p21lsneT3cW4CJL4Bd1lJ2
-[mspowerpointplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3pBnrckqfJ2zn7FL6Q_LNcm
-[msexcelplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3ohKCQMR7aopneByGX05iSK
 
 <!-- cse related playlists ends here  -->
 
