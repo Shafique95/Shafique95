@@ -188,7 +188,7 @@ All rights reserved by Shafiqul Islam @2022
 
 <!-- Links section starts here -->
 
-[website]: http:https://shafique95.github.io/Shafiqul-Islam/
+[website]: https://shafique95.github.io/Shafiqul-Islam/
 [youtube]: https://www.youtube.com/channel/UCjSmUZ8KjLXnx2cU6eP0ZgA
 [facebook]: https://www.facebook.com/shafique01934776188
 [linkedin]: https://www.linkedin.com/in/shafique01934776188/
