@@ -63,7 +63,6 @@ my students and others.
 - TypeScript
 - Bootstrap
 - Operating System
-- HSC ICT
 - MS Word
 - MS Excel
 - MS powerpoint
