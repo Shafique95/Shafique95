@@ -92,12 +92,6 @@ my students and others.
 
 <!-- github stats starts here  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-Islam&show_icons=true)
-
 <br/>
 
 <!-- github stats ends here  -->
@@ -106,19 +100,13 @@ my students and others.
 #### 📹 &nbsp; My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Go Bangla Tutorial 3 : Go Program structure](https://www.youtube.com/watch?v=0o3VTRk_zDI)
-- [Go Bangla Tutorial 4 : environment setup](https://www.youtube.com/watch?v=RMzO8eQuT1g)
-- [Go Bangla Tutorial 2 : Introduction to Go](https://www.youtube.com/watch?v=zFDU3NdU80E)
-- [Redux-toolkit bangla tutorial 14 : fetch data using redux toolkit](https://www.youtube.com/watch?v=LoK2bQUPjsY)
-- [Go Bangla Tutorial 1 : Course plan of the Go Programming Language](https://www.youtube.com/watch?v=tIQeuzBz4Fs)
+- [E-Commerce: Ecommerce overview](https://youtu.be/npKFCMlyVYQ)
+
 <!-- YOUTUBE:END -->
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
-alt="Java" width="240" height="180" border="10" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fRXL0X2WSK4" target="_blank"><img src="https://img.youtube.com/vi/fRXL0X2WSK4/3.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=fRXL0X2WSK4" target="_blank"><img src="https://github.com/Shafique95/Shafique95/blob/main/youtube%20pic.PNG" 
 alt="Java" width="240" height="180" border="10" /></a>
 
-↪️ &nbsp; [search more videos...](https://www.youtube.com/c/anisulislamrubel)
+↪️ &nbsp; [search more videos...](https://www.youtube.com/channel/UCjSmUZ8KjLXnx2cU6eP0ZgA)
 
 <br/>
 
@@ -164,9 +152,8 @@ alt="Java" width="240" height="180" border="10" /></a>
 ### Languages:
 
 - 🇧🇩 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
-- 🇮🇳 Hindi : Intermediate
-- 🇧🇷 Portugues : Basic
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate
+
   <br />
 
 <!-- my languages section ends here  -->
@@ -193,7 +180,7 @@ alt="Java" width="240" height="180" border="10" /></a>
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by Anisul Islam @2021
+All rights reserved by Shafiqul Islam @2022
 
 ---
 
