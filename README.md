@@ -28,61 +28,44 @@ After completing my Diploma in Software, Web and Android & IoS in July 2022, I a
 improving my web development skills. Every day I want to learn something new and share my knowledge with
 my students and others.
 </p>
-
 <br />
 <!-- about-me section ends here  -->
-
 <!-- web related skills section starts here  -->
-
-### 👨🏽‍💻 &nbsp; My Skills & Videos:
-
-#### Key Skills & Videos on Web development:
-
-[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />][htmlplaylist]
-[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />][cssplaylist]
-[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />][bootstrapplaylist]
-[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />][javascriptplaylist]
-[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />][jsonplaylist]
-[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />][sassplaylist]
-[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />][jqueryplaylist]
-[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />][reactplaylist]
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />][nodeandexpressplaylist]
-[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />][mongodbplaylist]
-[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />][mysqlplaylist]
-[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />][githubplaylist]
-
+### 👨🏽‍💻 &nbsp; My Skills:
 <br />
 <br />
+<img align="left" alt="html5" title="html" width="45" hspace="5" src="./images/html5.svg" />
+<img align="left" alt="css3" title="css" width="45" hspace="5" src="./images/css3.svg" />
+<img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./images/bootstrap.svg" />
+<img align="left" alt="javascript" title="javascript" width="45" hspace="5" src="./images/js.svg" />
+<img align="left" alt="json" title="json" width="45" hspace="5" src="./images/json.svg" />
+<img align="left" alt="jquery" title="jquery" width="45" hspace="5" src="./images/jquery.svg" />
+<img align="left" alt="react" title="react" width="45" hspace="5" src="./images/react.svg" />
+<img align="left" alt="mysql" title="mysql" width="45" hspace="5" src="./images/mysql.svg" />
+<img align="left" alt="github" title="github" width="45" hspace="5" src="./images/github.svg" />
+<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />
+<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />
+
 <br />
 
 <!-- web related skills section ends here  -->
 <!-- other skills and my videos for computer science section starts here  -->
-
-#### Other Skills & Videos:
-
-[<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />]
-[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />]
-[<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />]
-
-
 <br/>
 <br/>
 <br/>
 
-- [Artificial Intelligence (English)]
-- [Artificial Intelligence (Bangla)]
-- [Java Swing]
-- [Discrte Math]
-- [Numerical Method]
-- [Theory of computation]
-- [Compiler]
-- [Networking]
-- [Operating System]
-- [HSC ICT]
-- [Learn for skill]
-- [MS Word]
-- [MS Excel]
-- [MS powerpoint]
+- Java Programming Language
+- Flutter
+- Java Swing
+- JavaFx
+- JavaScript
+- TypeScript
+- Bootstrap
+- Operating System
+- HSC ICT
+- MS Word
+- MS Excel
+- MS powerpoint
   <!-- other skills and my videos for computer science section ends here  -->
 
   <br/>
@@ -94,7 +77,7 @@ my students and others.
 <!-- github stats ends here  -->
   <!-- latest youtube videos starts here -->
 
-#### 📹 &nbsp; My Latest YouTube Videos
+#### 📹 &nbsp; My Latest YouTube Video
 
 <!-- YOUTUBE:START -->
 - [E-Commerce: Ecommerce overview](https://youtu.be/npKFCMlyVYQ)
@@ -117,12 +100,11 @@ alt="Java" width="240" height="180" border="10" /></a>
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Courier (Part-time) | Posti Oy                                    | Oct 2019- Running   | Tampere, Finland   |
-| Research Assistant  | Tampere University                          | Nov 2020 - Jan 2021 | Tampere, Finland   |
-| Lecturer of ICT     | Jaflong Valley Boarding School              | Jul 2018 – Nov 2018 | Sylhet, Bangladesh |
-| Guest Lecturer      | Sylhet Engineering College                  | Nov 2017 – Apr 2018 | Sylhet, Bangladesh |
-| Android developer   | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Sylhet, Bangladesh |
-| Lecturer of ICT     | Zhingabari High School & College            | May 2016 – Aug 2017 | Sylhet, Bangladesh |
+| Full Stack Developer | The Computers Limited.                                | July 2021 - August 2022 | Dhaka Bangladesh   |
+| Trainer : ICT & Mathematics   | Student Aid Organization                         | May, 2017 - Present | Kishorganj   |
+| Graphic Designer     | Sonali Stationary & Online Shope              | June, 2019 - May, 2020 | Kishoreganj |
+| Frelancer       | microworkers.com                  | Join in 2020 | Kishoreganj |
+
 
 <br />
 <!-- work experience section ends here  -->
@@ -130,15 +112,14 @@ alt="Java" width="240" height="180" border="10" /></a>
 
 ### 👨🏻‍🎓 &nbsp; Education
 
-1. M.Sc. in Software, Web & Cloud  
-   Tampere University  
-   Tampere, Finland.
-2. B.Sc. in Computer Science & Engineering  
-   Leading University  
-   Sylhet, Bangladesh.
-3. Professional Diploma in Travel & Tourism  
-    London School of Commerce & IT  
-   London, England.
+1. Diploma in Computer Science  
+   IsDB BISEW .
+2. Masters in Mathematics  
+   National University  
+   Gagipur, Bangladesh.
+3. Bachelor in Mathematics  
+   National University  
+   Gagipur, Bangladesh.
 
 <br />
 
@@ -170,9 +151,9 @@ alt="Java" width="240" height="180" border="10" /></a>
 
 ### 🏅 Honors & Awards :
 
-- 100% Scholarship in Masters
-- Silver Button from YouTube (332k subscribers currently)
-- Pubali Bank Scholarship of 40,000 BDT for outstanding result in B.Sc.
+- 100% Scholarship in Diploma from  IsDB BISEW
+- 100% Scholarship From DuchBangla Bank S.S.C Result
+
 
 ---
 
@@ -193,18 +174,6 @@ All rights reserved by Shafiqul Islam @2022
 
 <!-- web related playlists starts here  -->
 
-[htmlplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3
-[cssplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO
-[bootstrapplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG
-[javascriptplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX
-[jsonplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rWYYIcCykektDcb_1IPDz4
-[sassplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qOvGYtFb3Z7KVMLrijYdqO
-[jqueryplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB
-[reactplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rGtitufynBKMy5gAFpa1y8
-[nodeandexpressplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
-[mongodbplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
-[mysqlplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD
-[githubplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
 
 <!-- web related playlists ends here  -->
 
@@ -214,3 +183,4 @@ All rights reserved by Shafiqul Islam @2022
 <!-- cse related playlists ends here  -->
 
 <!-- Links section ends here -->
+
